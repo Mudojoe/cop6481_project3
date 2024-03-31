@@ -346,21 +346,21 @@ serves well for our purposes here and we use to say the
 during the 6 month test period our buy/sell/hold strategy would have
 neted a 3.26% gain.
 
-Episode: 0, Total Reward: 0.7741914407465977, Exploration Rate: 0.01
-Episode: 500, Total Reward: 31.94897264212234, Exploration Rate: 0.01
-Episode: 1000, Total Reward: 36.75840714279968, Exploration Rate: 0.01
-Episode: 1500, Total Reward: 37.543950488716504, Exploration Rate: 0.01
-Episode: 2000, Total Reward: 38.077826354114016, Exploration Rate: 0.01
-Episode: 2500, Total Reward: 38.34637476084264, Exploration Rate: 0.01
-Episode: 3000, Total Reward: 37.80961836673399, Exploration Rate: 0.01
-Episode: 3500, Total Reward: 37.95565491522708, Exploration Rate: 0.01
-Episode: 4000, Total Reward: 37.60687741499775, Exploration Rate: 0.01
-Episode: 4500, Total Reward: 38.10078938969142, Exploration Rate: 0.01
-Average Reward over 100 evaluation episodes: 3.26%
-Start Price: 188.96958923339844
-End Price: 181.4199981689453
-Percent Difference: -3.9951354580807923 %
-Buy-and-Hold Percent Difference: -4.00%
+<br>Episode: 0, Total Reward: 0.7741914407465977, Exploration Rate: 0.01
+<br>Episode: 500, Total Reward: 31.94897264212234, Exploration Rate: 0.01
+<br>Episode: 1000, Total Reward: 36.75840714279968, Exploration Rate: 0.01
+<br>Episode: 1500, Total Reward: 37.543950488716504, Exploration Rate: 0.01
+<br>Episode: 2000, Total Reward: 38.077826354114016, Exploration Rate: 0.01
+<br>Episode: 2500, Total Reward: 38.34637476084264, Exploration Rate: 0.01
+<br>Episode: 3000, Total Reward: 37.80961836673399, Exploration Rate: 0.01
+<br>Episode: 3500, Total Reward: 37.95565491522708, Exploration Rate: 0.01
+<br>Episode: 4000, Total Reward: 37.60687741499775, Exploration Rate: 0.01
+<br>Episode: 4500, Total Reward: 38.10078938969142, Exploration Rate: 0.01
+<br>Average Reward over 100 evaluation episodes: 3.26%
+<br>Start Price: 188.96958923339844
+<br>End Price: 181.4199981689453
+<br>Percent Difference: -3.9951354580807923 %
+<br>Buy-and-Hold Percent Difference: -4.00%
 
 Process finished with exit code 0
 
