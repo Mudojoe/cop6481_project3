@@ -374,8 +374,8 @@ The chart shows that there was slight decrease in the value of the stock between
 ## Conclusion
 
 The Buy and Hold, saw a 4% loss.
-The RL model saw a gain of over 3%
-The total spread of over 7% would have resulted had the model been employed
+<br>The RL model saw a gain of over 3%.
+<br>The total spread of over 7% would have resulted had the model been deployed
 over the test period versus using a buy and hold strategy.
 
 As a next step, recommend redeploying the model using
@@ -384,4 +384,5 @@ While more complex to implement over Q-learing, the benefits of
 DQN make it more appropriate for the requirements imposed on a stock market predictor alogorithm.
 Becasue DQN is based on deep neural networks, in approximating the Q-value function it is better capable to handle the large and continuous state spaces that the stock
 trading algorithm demands.   Limitation of traditional Q-learning neccesitated
-the implementation of a bin solution with a large state_size number
+the implementation of a bin solution with a large state_size number of states as
+represented by the state_size variable in the StockTrading_Environment class.
