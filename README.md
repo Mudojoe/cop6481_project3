@@ -346,16 +346,15 @@ serves well for our purposes here and we use to say the
 during the 6 month test period our buy/sell/hold strategy would have
 neted a 3.26% gain.
 
-<br>Episode: 0, Total Reward: 0.7741914407465977, Exploration Rate: 0.01
-<br>Episode: 500, Total Reward: 31.94897264212234, Exploration Rate: 0.01
-<br>Episode: 1000, Total Reward: 36.75840714279968, Exploration Rate: 0.01
-<br>Episode: 1500, Total Reward: 37.543950488716504, Exploration Rate: 0.01
-<br>Episode: 2000, Total Reward: 38.077826354114016, Exploration Rate: 0.01
-<br>Episode: 2500, Total Reward: 38.34637476084264, Exploration Rate: 0.01
-<br>Episode: 3000, Total Reward: 37.80961836673399, Exploration Rate: 0.01
-<br>Episode: 3500, Total Reward: 37.95565491522708, Exploration Rate: 0.01
-<br>Episode: 4000, Total Reward: 37.60687741499775, Exploration Rate: 0.01
-<br>Episode: 4500, Total Reward: 38.10078938969142, Exploration Rate: 0.01
+<br>Episode: 500, Average Reward: 0.0636881769449054, Total Reward: 31.844088472452704
+<br>Episode: 1000, Average Reward: 0.03651783606671413, Total Reward: 36.51783606671413
+<br>Episode: 1500, Average Reward: 0.02523578241418119, Total Reward: 37.85367362127179
+<br>Episode: 2000, Average Reward: 0.019109617046673234, Total Reward: 38.219234093346465
+<br>Episode: 2500, Average Reward: 0.015306515624244958, Total Reward: 38.266289060612394
+<br>Episode: 3000, Average Reward: 0.012662715570988163, Total Reward: 37.988146712964486
+<br>Episode: 3500, Average Reward: 0.010829949196306275, Total Reward: 37.904822187071964
+<br>Episode: 4000, Average Reward: 0.009576940064170342, Total Reward: 38.30776025668137
+<br>Episode: 4500, Average Reward: 0.008465109531717481, Total Reward: 38.09299289272867
 <br>Average Reward over 100 evaluation episodes: 3.26%
 <br>Start Price: 188.96958923339844
 <br>End Price: 181.4199981689453

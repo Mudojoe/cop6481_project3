@@ -36,18 +36,20 @@ def main():
         done = False
 
         while not done:
-            action = agent.choose_best_action(state)  # Agent selects an action based on current state
-            next_state, reward, done = env.simulate_actions(action)  # Execute the action in the environment
+            agent_action = agent.choose_best_action(state)  # Agent selects an agent_action based on current state
+            next_state, reward, done = env.simulate_actions(agent_action)  # Execute the agent_action in the environment
 
             # Update the Q-table with the new knowledge
-            agent.update_q_table(state, action, reward, next_state, done)
+            agent.update_q_table(state, agent_action, reward, next_state, done)
 
             state = next_state  # Transition to the next state
             total_reward += reward
 
         if episode % 500 == 0:  # Log progress every 100 number_of_episodes
-            print(f"Episode: {episode}, Total Reward: {total_reward}, Exploration Rate: {agent.exploration_rate}")
-
+            if episode > 0 :
+                average_reward = total_reward / episode
+            #print(f"Episode: {episode}, Total Reward: {total_reward}, Exploration Rate: {agent.exploration_rate}")
+                print(f"Episode: {episode}, Average Reward: {average_reward}, Total Reward: {total_reward}")
 
     # After training is complete, evaluate the model on test data
     test_data_file = 'AAPL_6M_Test_Data_Reformatted.csv'
